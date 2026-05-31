@@ -12,7 +12,7 @@ A clean, single-page resume template built with [Typst](https://typst.app). Cont
 
 ## Preview
 
-> Add a screenshot of your compiled PDF here (`resume.pdf`)
+![Resume template preview](template/template.png)
 
 ## Project Structure
 
