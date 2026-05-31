@@ -19,8 +19,8 @@ Or install the [Tinymist](https://marketplace.visualstudio.com/items?itemName=my
 **2. Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ShunaulaJ/Resume-Builder.git
+cd Resume-Builder
 ```
 
 **3. Add your content**
