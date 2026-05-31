@@ -1,0 +1,68 @@
+# ══════════════════════════════════════════════════════════════════════════════
+#  Resume Content — Example Template (fake info)
+#  Inline formatting uses Typst markup: *bold*  _italic_
+#  Compile:  typst compile resume.typ --input content=content/template-example.yaml
+# ══════════════════════════════════════════════════════════════════════════════
+
+# ── Contact ───────────────────────────────────────────────────────────────────
+contact:
+  name:     "Blorb Flumph"
+  phone:    "(999) 000-1337"
+  email:    "blorb.flumph@zogmail.net"
+  linkedin: "linkedin.com/in/blorb-flumph"
+
+# ── Education ─────────────────────────────────────────────────────────────────
+education:
+  name:   "University of Wumbledon"
+  date:   "Octember 2099"
+  degree: "B.S. in Snorkelology"
+  gpa:    "GPA: 11/4.0"
+  bullets:
+    - "*Honors:* Valedictorian of Nap Science, Snorp Fellowship 2077"
+    - "*Leadership:* Grand Poobah, Bleep Club | Co-treasurer, Society of Wubble Enthusiasts"
+    - "*Courses:* Advanced Flibbertigibbet Theory, Quantum Mumbling"
+
+# ── Work Experience ───────────────────────────────────────────────────────────
+# location is optional — omit the field to leave it blank
+experience:
+  - company:  "Zorp Industries"
+    location: "Blandsville, NV"
+    title:    "Senior Moogulator, Dept. of Wumble"
+    dates:    "Febtober 2099 – Present"
+    bullets:
+      - "Orchestrated a cross-functional synergy of gibberish, reducing total blorp latency by *400%* through aggressive deployment of nonsense."
+      - "Reticulated 17,000 splines simultaneously while maintaining compliance with Regulation Flonk 7b."
+      - "Led migration from legacy snorfle tokens to modern quibblefication protocol with zero downtime and three donuts consumed."
+      - "Benchmarked *23 varieties of humbug* against production gloop metrics to inform the Q3 wibble roadmap."
+      - "*Mentored 0 interns* in the art of zogging; none returned."
+
+  - company:  "Gloop & Associates"
+    location: "Mumblington, TX"
+    title:    "Rotations: Snorple Engineering, Wubble Analytics"
+    dates:    "Smarch 2095 – Febtober 2099"
+    bullets:
+      - "Constructed a data pipeline using *florgstream architecture* and a *cloud-based blorb warehouse*, enabling real-time zibble analytics."
+      - "*Presented findings to the Deputy Wumble Officer* and senior gloop stakeholders, influencing the company's shift to full snorp observability."
+      - "Developed an internal search tool powered by *reverse quibble heuristics*, cutting average mumble resolution time by 9000%."
+      - "Prototyped a recommendation engine for the internal wubble knowledge base using collaborative snorfling."
+
+
+# ── Skills ────────────────────────────────────────────────────────────────────
+skills:
+  - category: "Blorp/Flonk"
+    items:    "Gloop, RAQ, Vector Blorbs, SnorkChain, Scikit-wubble, Chatbot Flibbertigibbets"
+  - category: "Languages"
+    items:    "Zorgon, Mumblescript, Florp, SQbL"
+  - category: "Libraries"
+    items:    "Reblorg, Node.wub, ZapAPI, Plandas, NümPy, dbt (definitely blorpified)"
+  - category: "Other"
+    items:    "AWS (Actual Wubble Services), Googl Cloud, Dorkher, Terraplonk, GibHub Actions"
+
+# ── Achievements ──────────────────────────────────────────────────────────────
+# subtitle is optional
+achievements:
+  - title:    "International Blorpathon Runner-Up"
+    subtitle: "AI-Powered Spline Reticulator"
+    date:     "Octember 2098"
+    bullets:
+      - "Placed 2nd in the Global Wumble Invitational by leading a team of 0.5 engineers to build a real-time snorple captioner, demoing to a panel of confused judges."
